@@ -1,0 +1,20 @@
+p{
+    color:blue;
+    background-color: azure; /block element acquires entire block/
+    text-align: center;
+    font-size: 30px;
+}
+.jk{
+    color: red;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    padding: 5px;
+    border: 1px dashed red;
+    align-content: center;/brings content of box in center/
+    text-align: center;
+}
+#jk1{
+    color: palevioletred;
+    background-color: paleturquoise;
+}
