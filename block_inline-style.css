@@ -1,0 +1,43 @@
+.opp{
+    border: 5px solid #000000;
+    padding: 5px;
+    height: 200px;
+    width: 900px;
+}
+#op{
+    background-color: darkolivegreen;
+}
+.pk{
+    background-color: olive;
+}
+.oppp{
+    border: 5px solid #000000;
+    padding: 5px;
+    height: 350px;
+    width: 600px;
+}
+.box1{
+    margin: 40px,20px,30px;
+    display: inline-block;
+}
+#lo{
+    background-color: greenyellow;
+    align-content: center;
+    height: 250px;
+    width: 150px;
+    text-align: center;
+}
+#loo{
+    background-color: yellowgreen;
+    align-content: center;
+    height: 250px;
+    text-align: center;
+    width: 150px;
+}
+#looo{
+    background-color: olivedrab;
+    align-content: center;
+    text-align: center;
+    height: 250px;
+    width: 150px;
+}

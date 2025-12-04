@@ -1,0 +1,45 @@
+body{
+    align-content: center;
+    text-align: center;
+}
+.c1{
+    height: 100px; width: 100px;
+    background-color: palegreen;
+    color: green;
+    padding: 5px;
+    border: dashed green;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    display: inline-block;
+}
+#id2{
+    height: 100px; width: 100px;
+    background-color: paleturquoise;
+    color: blue;
+    padding: 5px;
+    border: dashed turquoise;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+}
+#id3{
+    height: 100px; width: 100px;
+    background-color: palevioletred;
+    color: purple;
+    padding: 5px;
+    border: dashed violet;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+}
+#id4{
+    height: 100px; width: 100px;
+    background-color: palegoldenrod;
+    color: red;
+    padding: 5px;
+    border: dashed gold;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+}
