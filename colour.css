@@ -1,6 +1,6 @@
 p{
     color:blue;
-    background-color: azure; /block element acquires entire block/
+    background-color: azure; /*block element acquires entire block*/
     text-align: center;
     font-size: 30px;
 }
@@ -11,7 +11,7 @@ p{
     width: 300px;
     padding: 5px;
     border: 1px dashed red;
-    align-content: center;/brings content of box in center/
+    align-content: center; /*brings content of box in center*/
     text-align: center;
 }
 #jk1{
